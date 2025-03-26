@@ -1,0 +1,21 @@
+1|Company1|Varna|Company1@mail.com|321 542 725 865|Development2|10|Comment
+2|Company2|Burgas|Company2@mail.com|321 638 725 935|Development2|6|Comment
+3|Company3|Sofia|Company3@mail.com|654 667 725 865|Development5|5|Comment
+4|Company4|Sofia|Company4@mail.com|123 543 434 945|Development2|8|Comment
+5|Company5|Varna|Company5@mail.com|836 823 725 478|Development2|9|Comment
+6|Company6|Varna|Company6@mail.com|348 542 835 865|Development5|1|Comment
+7|Company7|Burgas|Company7@mail.com|321 542 925 923|Development6|5|Comment
+8|Company8|Bulgaria|Company8@mail.com|413 542 725 865|Development|2|Comment
+9|Company9|Varna|Company9@mail.com|321 367 471 861|Development|3|Comment
+10|Company10|Varna|Company10@mail.com|561 542 518 865|Development|8|Comment
+11|Company11|Varna|Company11@mail.com|321 671 725 623|Development|2|Comment
+12|Company12|Nesebar|Company12@mail.com|511 542 723 865|Development9|1|Comment
+13|Company13|Burgas|Company13@mail.com|367 122 755 852|Development9|0|Comment
+14|Company14|Nesebar|Company14@mail.com|321 542 725 853|Development9|5|Comment
+15|Company15|Nesebar|Company15@mail.com|357 523 235 523|Development9|7|Comment
+16|Company16|Varna|Company16@mail.com|362 713 543 865|Development6|8|Comment
+17|Company17|Varna|Company17@mail.com|541 542 635 865|Development6|2|Comment
+18|Company18|Burgas|Company18@mail.com|645 542 767 865|Development5|3|Comment
+19|Company19|Burgas|Company19@mail.com|261 902 725 865|Development5|2|Comment
+20|Company20|Varna|Company20@mail.com|321 902 782 845|Development|9|Comment
+21|Company21|Varna|Company21@mail.com|24 689 775 889|Development|8|Comment
